@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ian Moone
-title: Ian Moone
+name: Ian Moon
+title: Ian Moon
 email: -
-website: www.github.com/mns-037/resume
+website: www.github.com/mns-037/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -116,8 +116,8 @@ content:
 footer_show_references: true
 # references_title: References on request (Override references text)
 
-# darkmode
-darkmode: true (options: true, false, never)
+# # darkmode
+# darkmode: true (options: true, false, never)
 
 # Build settings
 remote_theme: sproogen/resume-theme
